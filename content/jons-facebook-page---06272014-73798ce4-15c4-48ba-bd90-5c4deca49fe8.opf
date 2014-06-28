@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>Jon's Facebook Page - 06272014</dc:title>
+  </metadata>
+  <manifest><item href="jons-facebook-page---06272014-e0063792-b1dd-45ee-837c-b6a1314b3e53-nav.html" id="jons-facebook-page---06272014-e0063792-b1dd-45ee-837c-b6a1314b3e53-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-0633eaaa-6c00-4fd9-a743-ac729dc6d7f5.html" id="module1-0633eaaa-6c00-4fd9-a743-ac729dc6d7f5.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-0633eaaa-6c00-4fd9-a743-ac729dc6d7f5.html"></itemref></spine>
+</package>
